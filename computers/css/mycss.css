@@ -1,0 +1,48 @@
+body{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left:-162px; 
+    margin-top: -250px;
+}
+
+.content{
+    border: gray 1px solid;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    background-color:whitesmoke ;
+
+}
+
+ul{
+    margin:10px 0; padding:0;
+}
+
+ul li{
+    border: 1px solid rgb(231, 228, 228);
+    display: inline-block;
+    list-style-type: none;
+    padding: 12px 28px;
+    text-align: conter;
+    font-weight: bold;
+
+
+}
+ul li:hover{
+	color: #fff;
+	background-color: rgb(209, 205, 218);
+}
+
+#lin{
+    width: 290px;
+    height:45px;
+    border: 1px solid transparent;
+    font-family: "微软雅黑";
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+
+
+
